@@ -2,10 +2,10 @@
 
 
 
-- 🔭 I’m currently working on fixing my discord bot lmao
-- 🌱 I’m currently learning python
-- 🤔 I’m looking for help with discord.py
-- 😄 Pronouns: he/him
+- too lazy
+- to code
+- stuff
+- lmao
 
 <!--
 **zSatur/zSatur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
